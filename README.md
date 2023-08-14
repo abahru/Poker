@@ -1,1 +1,2 @@
 # Poker
+As part of my introduction to programming course, I undertook this project which involved simulating a game of Texas Hold 'Em poker using Java. This project aimed to deepen our understanding of one-dimensional arrays and fundamental programming concepts while simulating the intricacies of a poker game. While much of the graphical interface and project infrastructure were provided, I was tasked with implementing two classes: Deck, representing a deck of cards, and PokerHandEvaluator, a class with static methods to evaluate sets of five cards and determine poker hands.
